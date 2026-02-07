@@ -1,7 +1,7 @@
 
 // app/api/evaluate/route.ts
 import OpenAI from "openai";
-import { IELTS_SPEAKING_RUBRIC } from "@/lib/prompt";
+import { IELTS_SPEAKING_RUBRIC } from "../../../lib/prompt";
 
 export const runtime = "nodejs"; // đảm bảo chạy server-side
 
