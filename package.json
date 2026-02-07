@@ -1,0 +1,15 @@
+{
+  "name": "ielts-ai",
+  "private": true,
+  "scripts": {
+    "build": "next build",
+    "dev": "next dev",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14",
+    "react": "^18",
+    "react-dom": "^18",
+    "openai": "^4"
+  }
+}
